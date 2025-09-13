@@ -1,4 +1,5 @@
 训练的代码，还需整理和优化
+训练时记得换文件地址
 
 文档地址：【金山文档】 YOlO(GPU)部署文档
 https://365.kdocs.cn/l/cqrcO9cj2qqr
