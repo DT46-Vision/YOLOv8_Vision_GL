@@ -1,0 +1,6 @@
+train: D:/code_B/RM_YOLO/XJTLU_2023_Detection_ALL/train
+val: D:/code_B/RM_YOLO/XJTLU_2023_Detection_ALL/val
+
+nc: 14
+names: ['B1', 'B2', 'B3', 'B4', 'B5', 'BO', 'BS', 'R1', 'R2', 'R3', 'R4', 'R5', 'RO', 'RS']
+kpt_shape: [4, 2]
